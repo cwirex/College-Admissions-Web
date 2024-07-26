@@ -1,3 +1,4 @@
+# Bachelor's thesis
 ## Abstract
 This paper presents a centralized college recruitment system based on Gale Shapley's deferred acceptance algorithm, which aims to increase the efficiency and transparency of the recruitment process and provide a fair solution in this regard
 
