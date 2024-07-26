@@ -1,0 +1,718 @@
+{
+  "colleges": {
+    "coll-01": {
+      "Courses": {
+        "cour-01": {
+          "Multipliers": {
+            "subj-02": {
+              "adv": 2.5,
+              "bas": 1
+            },
+            "subj-03": {
+              "adv": 1.5,
+              "bas": 0.5
+            },
+            "subj-07": {
+              "adv": 3.2,
+              "bas": 0
+            }
+          },
+          "candidates": {
+            "HUcF5q3jGrbOUMXZGokhafGmDrG3": 0,
+            "ggnnbfIZp2fwPSGyaOASW1vyqJv1": 0
+          },
+          "capacity": 60,
+          "desc": "Lorem ipsum",
+          "enrolled": 32,
+          "name": "Architektura"
+        },
+        "cour-02": {
+          "Multipliers": {
+            "subj-01": {
+              "adv": 2.2,
+              "bas": 1.1
+            },
+            "subj-03": {
+              "adv": 0.5,
+              "bas": 0.8
+            },
+            "subj-07": {
+              "adv": 2.2,
+              "bas": 0
+            }
+          },
+          "candidates": {
+            "GhHmonyycGWKfYh1c4Lheg7KvP52": 330.00000000000006,
+            "HUcF5q3jGrbOUMXZGokhafGmDrG3": 330.00000000000006,
+            "ggnnbfIZp2fwPSGyaOASW1vyqJv1": 110.00000000000001,
+            "rMXG0SyoJxYklisnfF6ST5hAI2H3": 33
+          },
+          "capacity": 55,
+          "desc": "Lorem ipsum",
+          "enrolled": 11,
+          "name": "Automatyka i Robotyka"
+        },
+        "cour-03": {
+          "Multipliers": {
+            "subj-01": {
+              "adv": 0.2,
+              "bas": 0.5
+            },
+            "subj-02": {
+              "adv": 4.8,
+              "bas": 2.4
+            },
+            "subj-03": {
+              "adv": 2.6,
+              "bas": 2.2
+            }
+          },
+          "capacity": 100,
+          "desc": "Lorem ipsum",
+          "enrolled": 202,
+          "name": "Computer Science"
+        },
+        "cour-04": {
+          "Multipliers": {
+            "subj-02": {
+              "adv": 1,
+              "bas": 0.2
+            }
+          },
+          "capacity": 30,
+          "desc": "Lorem ipsum",
+          "enrolled": 44,
+          "name": "Matematyka"
+        }
+      },
+      "name": "Politechnika Warszawska"
+    },
+    "coll-02": {
+      "Courses": {
+        "cour-01": {
+          "Multipliers": {
+            "subj-02": {
+              "adv": 3.3,
+              "bas": 1.1
+            },
+            "subj-04": {
+              "adv": 5.5,
+              "bas": 0
+            },
+            "subj-06": {
+              "adv": 3,
+              "bas": 0
+            }
+          },
+          "capacity": 180,
+          "desc": "Lorem ipsum",
+          "enrolled": 332,
+          "name": "Architektura i Budownictwo"
+        },
+        "cour-02": {
+          "Multipliers": {
+            "subj-01": {
+              "adv": 0.5,
+              "bas": 0
+            },
+            "subj-02": {
+              "adv": 2,
+              "bas": 0
+            },
+            "subj-10": {
+              "adv": 2,
+              "bas": 0
+            }
+          },
+          "capacity": 76,
+          "desc": "Lorem ipsum",
+          "enrolled": 56,
+          "name": "Mechanika pojazdów"
+        },
+        "cour-03": {
+          "Multipliers": {
+            "subj-03": {
+              "adv": 1,
+              "bas": 0.5
+            },
+            "subj-07": {
+              "adv": 1.8,
+              "bas": 0
+            },
+            "subj-08": {
+              "adv": 0.6,
+              "bas": 0
+            },
+            "subj-10": {
+              "adv": 0.7,
+              "bas": 0
+            },
+            "subj-12": {
+              "adv": 0.2,
+              "bas": 0
+            }
+          },
+          "capacity": 27,
+          "desc": "Lorem ipsum",
+          "enrolled": 3,
+          "name": "Ochrona środowiska"
+        }
+      },
+      "name": "Politechnika Wrocławska"
+    },
+    "coll-03": {
+      "Courses": {
+        "cour-01": {
+          "Multipliers": {
+            "subj-02": {
+              "adv": 2.5,
+              "bas": 1
+            },
+            "subj-03": {
+              "adv": 1.5,
+              "bas": 0.5
+            },
+            "subj-07": {
+              "adv": 3.2,
+              "bas": 0
+            }
+          },
+          "candidates": {
+            "GhHmonyycGWKfYh1c4Lheg7KvP52": 0,
+            "HUcF5q3jGrbOUMXZGokhafGmDrG3": 0,
+            "ggnnbfIZp2fwPSGyaOASW1vyqJv1": 0,
+            "rMXG0SyoJxYklisnfF6ST5hAI2H3": 0
+          },
+          "capacity": 62,
+          "desc": "Lorem ipsum",
+          "enrolled": 42,
+          "name": "Antropologia"
+        },
+        "cour-02": {
+          "Multipliers": {
+            "subj-01": {
+              "adv": 2,
+              "bas": 1
+            },
+            "subj-03": {
+              "adv": 0.5,
+              "bas": 0.5
+            }
+          },
+          "candidates": {
+            "GhHmonyycGWKfYh1c4Lheg7KvP52": 300,
+            "HUcF5q3jGrbOUMXZGokhafGmDrG3": 300,
+            "ggnnbfIZp2fwPSGyaOASW1vyqJv1": 100,
+            "rMXG0SyoJxYklisnfF6ST5hAI2H3": 30
+          },
+          "capacity": 15,
+          "desc": "Lorem ipsum",
+          "enrolled": 11,
+          "name": "Bioinżynieria"
+        },
+        "cour-03": {
+          "Multipliers": {
+            "subj-01": {
+              "adv": 0,
+              "bas": 0.5
+            },
+            "subj-02": {
+              "adv": 2.9,
+              "bas": 2.1
+            },
+            "subj-03": {
+              "adv": 0.8,
+              "bas": 0.2
+            }
+          },
+          "candidates": {
+            "GhHmonyycGWKfYh1c4Lheg7KvP52": 650,
+            "rMXG0SyoJxYklisnfF6ST5hAI2H3": 0
+          },
+          "capacity": 135,
+          "desc": "Interesują Cię komputery i nowe technologie? Lubisz gry komputerowe, w których ćwiczysz strategię, logiczne myślenie i reakcję? Ten kierunek jest dla Ciebie!",
+          "enrolled": 128,
+          "name": "Informatyka"
+        },
+        "cour-04": {
+          "Multipliers": {
+            "subj-02": {
+              "adv": 1.2,
+              "bas": 1.6
+            }
+          },
+          "candidates": {
+            "rMXG0SyoJxYklisnfF6ST5hAI2H3": 0
+          },
+          "capacity": 20,
+          "desc": "Lorem ipsum",
+          "enrolled": 6,
+          "name": "Zarządzanie"
+        }
+      },
+      "name": "Uniwersytet Marii Curie-Skłodowskiej w Lublinie"
+    },
+    "coll-04": {
+      "Courses": {
+        "cour-01": {
+          "Multipliers": {
+            "subj-01": {
+              "adv": 0.4,
+              "bas": 1
+            },
+            "subj-03": {
+              "adv": 3.3,
+              "bas": 1.3
+            }
+          },
+          "capacity": 60,
+          "desc": "Lorem ipsum",
+          "enrolled": 32,
+          "name": "Pielęgniartwo"
+        },
+        "cour-02": {
+          "Multipliers": {
+            "subj-02": {
+              "adv": 0.2,
+              "bas": 0.1
+            },
+            "subj-04": {
+              "adv": 0.5,
+              "bas": 0
+            },
+            "subj-05": {
+              "adv": 0.4,
+              "bas": 0
+            }
+          },
+          "candidates": {
+            "ggnnbfIZp2fwPSGyaOASW1vyqJv1": 0
+          },
+          "capacity": 100,
+          "desc": "Lorem ipsum",
+          "enrolled": 1143,
+          "name": "Medycyna stosowana"
+        }
+      },
+      "name": "Wojskowa Akademia Medyczna"
+    },
+    "df9pqgygFNOYupElupVdC5EYPyi1": {
+      "Courses": {
+        "cour-01064": {
+          "Multipliers": {
+            "subj-01": {
+              "adv": 0,
+              "bas": 1
+            },
+            "subj-06": {
+              "adv": 1,
+              "bas": 0
+            }
+          },
+          "capacity": 55,
+          "desc": "Nowy kurs dla nowych studentów.",
+          "enrolled": 0,
+          "name": "Nowy Kurs"
+        }
+      },
+      "name": "Nowy Uniwersytet"
+    },
+    "qOs4s5hqySMPvJRYaFHRJVeqaAl2": {
+      "Courses": {
+        "cour-07720": {
+          "Multipliers": {
+            "subj-03": {
+              "adv": 1,
+              "bas": 2
+            },
+            "subj-08": {
+              "adv": 1.1,
+              "bas": 0
+            },
+            "subj-13": {
+              "adv": 0.75,
+              "bas": 0
+            }
+          },
+          "capacity": 30,
+          "desc": "Jeśli interesują Cię relacje między państwami i ich wpływ na światowy porządek, kierunek Stosunki Międzynarodowe jest dla Ciebie. Poprzez studia poznasz mechanizmy funkcjonowania międzynarodowych organizacji i instytucji. Dołącz do grona specjalistów w dziedzinie polityki międzynarodowej i stań się ważnym graczem na arenie międzynarodowej.",
+          "enrolled": 0,
+          "name": "Stosunki międzynarodowe"
+        },
+        "cour-08381": {
+          "Multipliers": {
+            "subj-12": {
+              "adv": 0,
+              "bas": 1
+            }
+          },
+          "capacity": 200,
+          "desc": "",
+          "enrolled": 0,
+          "name": "Nowy kurs 2022"
+        },
+        "cour-09893": {
+          "Multipliers": {
+            "subj-04": {
+              "adv": 33.3,
+              "bas": 1
+            },
+            "subj-10": {
+              "adv": 100,
+              "bas": 11
+            }
+          },
+          "capacity": 111,
+          "desc": "",
+          "enrolled": 0,
+          "name": "new course 2"
+        }
+      },
+      "name": "UMCS w Lublinie"
+    }
+  },
+  "results": {
+    "colleges": {
+      "coll-01": {
+        "courses": [
+          {
+            "capacity": 60,
+            "enrolled": [
+              {
+                "element": "HUcF5q3jGrbOUMXZGokhafGmDrG3",
+                "priority": 0
+              }
+            ],
+            "id": "cour-01"
+          },
+          {
+            "capacity": 55,
+            "enrolled": [
+              {
+                "element": "rMXG0SyoJxYklisnfF6ST5hAI2H3",
+                "priority": 33
+              }
+            ],
+            "id": "cour-02"
+          }
+        ],
+        "id": "coll-01"
+      },
+      "coll-02": {
+        "id": "coll-02"
+      },
+      "coll-03": {
+        "courses": [
+          {
+            "capacity": 62,
+            "enrolled": [
+              {
+                "element": "GhHmonyycGWKfYh1c4Lheg7KvP52",
+                "priority": 0
+              }
+            ],
+            "id": "cour-01"
+          },
+          {
+            "capacity": 15,
+            "enrolled": [
+              {
+                "element": "ggnnbfIZp2fwPSGyaOASW1vyqJv1",
+                "priority": 100
+              }
+            ],
+            "id": "cour-02"
+          },
+          {
+            "capacity": 135,
+            "id": "cour-03"
+          },
+          {
+            "capacity": 20,
+            "id": "cour-04"
+          }
+        ],
+        "id": "coll-03"
+      },
+      "coll-04": {
+        "courses": [
+          {
+            "capacity": 100,
+            "id": "cour-02"
+          }
+        ],
+        "id": "coll-04"
+      },
+      "df9pqgygFNOYupElupVdC5EYPyi1": {
+        "id": "df9pqgygFNOYupElupVdC5EYPyi1"
+      },
+      "qOs4s5hqySMPvJRYaFHRJVeqaAl2": {
+        "id": "qOs4s5hqySMPvJRYaFHRJVeqaAl2"
+      }
+    },
+    "ready": true,
+    "students": {
+      "GhHmonyycGWKfYh1c4Lheg7KvP52": {
+        "coll": "coll-03",
+        "cour": "cour-01",
+        "rank": 1
+      },
+      "HUcF5q3jGrbOUMXZGokhafGmDrG3": {
+        "coll": "coll-01",
+        "cour": "cour-01",
+        "rank": 1
+      },
+      "ggnnbfIZp2fwPSGyaOASW1vyqJv1": {
+        "coll": "coll-03",
+        "cour": "cour-02",
+        "rank": 1
+      },
+      "rMXG0SyoJxYklisnfF6ST5hAI2H3": {
+        "coll": "coll-01",
+        "cour": "cour-02",
+        "rank": 1
+      }
+    }
+  },
+  "students": {
+    "7i1AwqY45VbW9DbCBdt4b72YpQk1": {
+      "Scores": {
+        "subj-01": {
+          "adv": 88,
+          "bas": 44,
+          "sub": "subj-01"
+        },
+        "subj-02": {
+          "adv": 100,
+          "bas": 66,
+          "sub": "subj-02"
+        },
+        "subj-06": {
+          "adv": 50,
+          "bas": 0,
+          "sub": "subj-06"
+        }
+      }
+    },
+    "GhHmonyycGWKfYh1c4Lheg7KvP52": {
+      "Preferences": {
+        "pref-coll-01-cour-02": {
+          "coll": "coll-01",
+          "cour": "cour-02",
+          "pos": 3
+        },
+        "pref-coll-03-cour-01": {
+          "coll": "coll-03",
+          "cour": "cour-01",
+          "pos": 1
+        },
+        "pref-coll-03-cour-02": {
+          "coll": "coll-03",
+          "cour": "cour-02",
+          "pos": 2
+        },
+        "pref-coll-03-cour-03": {
+          "coll": "coll-03",
+          "cour": "cour-03",
+          "pos": 4
+        }
+      },
+      "Scores": {
+        "subj-01": {
+          "adv": 100,
+          "bas": 100,
+          "sub": "subj-01"
+        },
+        "subj-02": {
+          "adv": 100,
+          "bas": 100,
+          "sub": "subj-02"
+        },
+        "subj-03": {
+          "adv": 100,
+          "bas": 100,
+          "sub": "subj-03"
+        }
+      }
+    },
+    "HUcF5q3jGrbOUMXZGokhafGmDrG3": {
+      "Preferences": {
+        "pref-coll-01-cour-01": {
+          "coll": "coll-01",
+          "cour": "cour-01",
+          "pos": 1
+        },
+        "pref-coll-01-cour-02": {
+          "coll": "coll-01",
+          "cour": "cour-02",
+          "pos": 2
+        },
+        "pref-coll-03-cour-01": {
+          "coll": "coll-03",
+          "cour": "cour-01",
+          "pos": 4
+        },
+        "pref-coll-03-cour-02": {
+          "coll": "coll-03",
+          "cour": "cour-02",
+          "pos": 3
+        }
+      },
+      "Scores": {
+        "subj-01": {
+          "adv": 100,
+          "bas": 100,
+          "sub": "subj-01"
+        },
+        "subj-02": {
+          "adv": 30,
+          "bas": 50,
+          "sub": "subj-02"
+        },
+        "subj-03": {
+          "adv": 0,
+          "bas": 34,
+          "sub": "subj-03"
+        },
+        "subj-04": {
+          "adv": 100,
+          "bas": 0,
+          "sub": "subj-04"
+        },
+        "subj-05": {
+          "adv": 99,
+          "bas": 0,
+          "sub": "subj-05"
+        },
+        "subj-06": {
+          "adv": 100,
+          "bas": 0,
+          "sub": "subj-06"
+        }
+      }
+    },
+    "ggnnbfIZp2fwPSGyaOASW1vyqJv1": {
+      "Preferences": {
+        "pref-coll-01-cour-01": {
+          "coll": "coll-01",
+          "cour": "cour-01",
+          "pos": 3
+        },
+        "pref-coll-01-cour-02": {
+          "coll": "coll-01",
+          "cour": "cour-02",
+          "pos": 4
+        },
+        "pref-coll-03-cour-01": {
+          "coll": "coll-03",
+          "cour": "cour-01",
+          "pos": 2
+        },
+        "pref-coll-03-cour-02": {
+          "coll": "coll-03",
+          "cour": "cour-02",
+          "pos": 1
+        },
+        "pref-coll-04-cour-02": {
+          "coll": "coll-04",
+          "cour": "cour-02",
+          "pos": 5
+        }
+      },
+      "Scores": {
+        "subj-01": {
+          "adv": 0,
+          "bas": 100,
+          "sub": "subj-01"
+        },
+        "subj-02": {
+          "adv": 50,
+          "bas": 50,
+          "sub": "subj-02"
+        },
+        "subj-04": {
+          "adv": 64,
+          "bas": 0,
+          "sub": "subj-04"
+        },
+        "subj-14": {
+          "adv": 0,
+          "bas": 30,
+          "sub": "subj-14"
+        }
+      }
+    },
+    "rMXG0SyoJxYklisnfF6ST5hAI2H3": {
+      "Preferences": {
+        "pref-coll-01-cour-02": {
+          "coll": "coll-01",
+          "cour": "cour-02",
+          "pos": 1
+        },
+        "pref-coll-03-cour-01": {
+          "coll": "coll-03",
+          "cour": "cour-01",
+          "pos": 3
+        },
+        "pref-coll-03-cour-02": {
+          "coll": "coll-03",
+          "cour": "cour-02",
+          "pos": 2
+        },
+        "pref-coll-03-cour-03": {
+          "coll": "coll-03",
+          "cour": "cour-03",
+          "pos": 5
+        },
+        "pref-coll-03-cour-04": {
+          "coll": "coll-03",
+          "cour": "cour-04",
+          "pos": 4
+        }
+      },
+      "Scores": {
+        "subj-02": {
+          "adv": 0,
+          "bas": 30,
+          "sub": "subj-02"
+        },
+        "subj-03": {
+          "adv": 0,
+          "bas": 30,
+          "sub": "subj-03"
+        },
+        "subj-06": {
+          "adv": 100,
+          "bas": 0,
+          "sub": "subj-06"
+        },
+        "subj-07": {
+          "adv": 100,
+          "bas": 0,
+          "sub": "subj-07"
+        },
+        "subj-12": {
+          "adv": 100,
+          "bas": 0,
+          "sub": "subj-12"
+        }
+      }
+    }
+  },
+  "subjects": {
+    "subj-01": "Polski",
+    "subj-02": "Matematyka",
+    "subj-03": "Angielski",
+    "subj-04": "Biologia",
+    "subj-05": "Chemia",
+    "subj-06": "Filozofia",
+    "subj-07": "Fizyka",
+    "subj-08": "Geografia",
+    "subj-09": "Historia",
+    "subj-10": "Historia muzyki",
+    "subj-11": "Historia sztuki",
+    "subj-12": "Informatyka",
+    "subj-13": "Wiedza o społeczeństwie",
+    "subj-14": "Język nowożytny (inny)"
+  }
+}
