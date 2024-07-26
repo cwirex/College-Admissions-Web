@@ -4,6 +4,17 @@
 ## Abstract
 This paper presents a centralized college recruitment system based on Gale Shapley's deferred acceptance algorithm, which aims to increase the efficiency and transparency of the recruitment process and provide a fair solution in this regard
 
+## Screenshots
+<p float="center">
+  <img src="app/img/ss_3.png" width="70%" title="Moderator: Create new course" >
+</p>
+<p float="center">
+  <img src="app/img/ss_1.png" width="70%" title="Student: Enroll" >
+</p>
+<p float="center">
+  <img src="app/img/ss_2.png" width="70%" title="Student: Edit preferences" >
+</p>
+
 ## Results
 - The use of the Gale Shapley algorithm for the recruitment problem posed proved to be effective and efficient. 
 - For randomly generated data of 43 universities, 3427 majors which included about 30000 places for almost 270000 applicants submitted. 
